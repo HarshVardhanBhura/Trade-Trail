@@ -12,10 +12,6 @@
 </button>
 </a>
 
-## Introduction
-
-DESIS Ascend Educare project by Juniher Group-3 2024-2025
-
 ## Description
 
 TradeTrail is a platform built around the **circular economy**, enabling users to:
